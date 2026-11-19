@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://borkware.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Ekky Greeble Hoover ni peng Ni womm'
 theme = 'ananke'
