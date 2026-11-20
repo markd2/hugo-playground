@@ -2,3 +2,7 @@ baseURL = 'http://borkware.com/'
 locale = 'en-us'
 title = 'Ekky Greeble Hoover ni peng Ni womm'
 theme = 'ananke'
+
+[taxonomies]
+  spoon = 'spoons'
+  fork = 'forks'
