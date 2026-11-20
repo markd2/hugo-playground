@@ -1,8 +1,8 @@
-+++
-date = '{{ .Date }}'
-draft = true
-title = 'OMG GREEBLE {{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+date: '{{ .Date }}'
+draft: true
+title: OMG GREEBLE {{ replace .File.ContentBaseName "-" " " | title }}
+---
 Woo Greeble Template!
 
 ```
